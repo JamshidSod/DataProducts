@@ -1,0 +1,36 @@
+"","Region","Project.Status","Freq"
+"1","East Asia and Pacific","Canceled",156
+"2","East Asia and Pacific","Concluded",40
+"3","East Asia and Pacific","Construction",470
+"4","East Asia and Pacific","Distressed",13
+"5","East Asia and Pacific","Merged",40
+"6","East Asia and Pacific","Operational",2044
+"7","Europe and Central Asia","Canceled",104
+"8","Europe and Central Asia","Concluded",23
+"9","Europe and Central Asia","Construction",115
+"10","Europe and Central Asia","Distressed",16
+"11","Europe and Central Asia","Merged",653
+"12","Europe and Central Asia","Operational",1790
+"13","Latin America and the Caribbean","Canceled",186
+"14","Latin America and the Caribbean","Concluded",108
+"15","Latin America and the Caribbean","Construction",171
+"16","Latin America and the Caribbean","Distressed",231
+"17","Latin America and the Caribbean","Merged",277
+"18","Latin America and the Caribbean","Operational",3875
+"19","Middle East and North Africa","Canceled",27
+"20","Middle East and North Africa","Concluded",18
+"21","Middle East and North Africa","Construction",41
+"22","Middle East and North Africa","Merged",8
+"23","Middle East and North Africa","Operational",446
+"24","South Asia","Canceled",58
+"25","South Asia","Concluded",16
+"26","South Asia","Construction",316
+"27","South Asia","Distressed",11
+"28","South Asia","Merged",151
+"29","South Asia","Operational",1283
+"30","Sub-Saharan Africa","Canceled",79
+"31","Sub-Saharan Africa","Concluded",51
+"32","Sub-Saharan Africa","Construction",73
+"33","Sub-Saharan Africa","Distressed",64
+"34","Sub-Saharan Africa","Merged",32
+"35","Sub-Saharan Africa","Operational",1862
